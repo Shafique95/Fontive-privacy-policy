@@ -1,6 +1,6 @@
 ## 1. Introduction
 
-Welcome to Fontive! This Privacy Policy outlines our commitment to user privacy. Fontive, a Flutter application, does not collect personal information or require any user registration.
+Welcome to Fontive! This Privacy Policy outlines our commitment to user privacy. Fontive, an Android application, that does not collect personal information or require any user registration.
 
 ## 2. Information Collection
 
