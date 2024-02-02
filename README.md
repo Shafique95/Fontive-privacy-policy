@@ -1,7 +1,3 @@
-# Fontive Privacy Policy
-
-**Last Updated:** [03-02-2024]
-
 ## 1. Introduction
 
 Welcome to Fontive! This Privacy Policy outlines our commitment to user privacy. Fontive, a Flutter application, does not collect personal information or require any user registration.
@@ -24,6 +20,5 @@ Any future updates to this Privacy Policy will reflect our continued commitment 
 
 ## 6. Contact Us
 
-If you have any questions or concerns, please contact us at [intelligence.elites@gmail.com].
-
+If you have any questions or concerns, please contact us at [contact us](mailto:your@email.com).
 Thank you for using Fontive!
