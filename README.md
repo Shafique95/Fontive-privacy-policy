@@ -1,6 +1,6 @@
 # Fontive Privacy Policy
 
-**Last Updated:** [Date]
+**Last Updated:** [03-02-2024]
 
 ## 1. Introduction
 
@@ -24,6 +24,6 @@ Any future updates to this Privacy Policy will reflect our continued commitment 
 
 ## 6. Contact Us
 
-If you have any questions or concerns, please contact us at [your@email.com].
+If you have any questions or concerns, please contact us at [intelligence.elites@gmail.com].
 
 Thank you for using Fontive!
