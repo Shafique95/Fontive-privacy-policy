@@ -20,6 +20,6 @@ Any future updates to this Privacy Policy will reflect our continued commitment 
 
 ## 6. Contact Us
 
-If you have any questions or concerns, please [contact us](mailto:your@email.com). 
+If you have any questions or concerns, please [contact us](mailto:intelligence.elites@gmail.com). 
 
 Thank you for using Fontive!
